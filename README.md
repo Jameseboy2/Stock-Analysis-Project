@@ -6,9 +6,11 @@ Finds and displays several useful insights on choice stocks.
 
 Steps to build and/or run the software:
 
-1. Navigate to directory
-2. Run "streamlit run app.py"
-3. Let it open in your browser and enjoy
+1. Download app.py and navigate to directory
+2. Run "streamlit run app.py" in terminal (for me it was "py -m streamlit run app.py")
+3. Give it a second to let it open in your browser
+4. Enjoy as needed
+5. Press ctrl + c in terminal to end stream
 
 Instructions for using the software:
 
